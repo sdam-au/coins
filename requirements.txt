@@ -8,6 +8,7 @@ matplotlib
 seaborn
 sddk
 tempun
+openpyxl
 
 ### more specific, but perhaps too restrictive
 #pandas==1.1.5

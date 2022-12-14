@@ -4,13 +4,11 @@
 ---
 
 ## Purpose
-[In two to three sentences state the purpose of this repository, ideally tying it to an existing SDAM milestone. E.g., The purpose of this repository is to provide templates for all future SDAM repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
-
+A supplementary materials (code, data, & figures) to the article manuscript "Iconographic trends in Roman imperial coinage in the context of societal changes in the 2nd and 3rd century CE: A small-scale test of the Affluence hypothesis" 
 ---
 ## Authors
-* Tomas Glomb
+* Tomáš Glomb
 * Vojtěch Kaše
-* Petra Heřmánková
 
 ## License
 CC-BY-SA 4.0, see attached License.md
@@ -23,7 +21,6 @@ CC-BY-SA 4.0, see attached License.md
 
 ---
 # How to use this repository
-
 
 * download or clone the repository
 * activate the virtual environment (open your command line, move the the repository folder and run `bash ./create_coins_venv.sh`)

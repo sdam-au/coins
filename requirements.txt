@@ -6,9 +6,12 @@ nltk
 scikit-learn
 matplotlib
 seaborn
+fiona
 sddk
 tempun
 openpyxl
+rdflib
+gspread_dataframe
 
 ### more specific, but perhaps too restrictive
 #pandas==1.1.5

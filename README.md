@@ -16,7 +16,8 @@ Supplementary materials (code, data, & figures) to the article manuscript "Icono
 CC-BY-SA 4.0, see attached License.md
 
 ## DOI
-[Here will be DOI or some other identifier once we have it]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7440143.svg)](https://doi.org/10.5281/zenodo.7440143)
+
 
 ### References
 [Here will go related articles or other sources we will publish/create]

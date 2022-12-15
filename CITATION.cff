@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: coins
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tomáš
+    family-names: Glomb
+    email: tomas.glomb@gmail.com
+    affiliation: Masaryk University
+    orcid: 'https://orcid.org/0000-0001-6862-8409'
+  - given-names: Vojtěch
+    family-names: Kaše
+    email: vojtech.kase@gmail.com
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0000-0002-6601-1605'
+repository-code: 'https://github.com/sdam-au/coins'
+keywords:
+  - Roman coinage
+  - Roman imperial ideology
+  - Roman religion
+  - cultural evolution
+  - affluence hypothesis
+license: CC-BY-NC-4.0
+version: '0.4'
+date-released: '2022-12-15'

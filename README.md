@@ -4,7 +4,9 @@
 ---
 
 ## Purpose
-* A supplementary materials (code, data, & figures) to the article manuscript "Iconographic trends in Roman imperial coinage in the context of societal changes in the 2nd and 3rd century CE: A small-scale test of the Affluence hypothesis" 
+
+Supplementary materials (code, data, & figures) to the article manuscript "Iconographic trends in Roman imperial coinage in the context of societal changes in the 2nd and 3rd century CE: A small-scale test of the Affluence hypothesis" 
+
 ---
 ## Authors
 * Tomáš Glomb

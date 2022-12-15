@@ -1,0 +1,25 @@
+cff-version: 0.2
+message: "If you use this software, please cite it as below."
+references:
+  - type: "software"
+authors: 
+  - affiliation: "Masaryk University"
+    family-names: "Glomb"
+    given-names: "Tomáš"
+    orcid: "https://orcid.org/0000-0001-6862-8409"
+  - affiliation: "University of West Bohemia"
+    family-names: "Kaše"
+    given-names: "Vojtěch"
+    orcid: "https://orcid.org/0000-0002-6601-1605"
+license: cc-by-nc-4.0
+repository-code: "https://github.com/sdam-au/coins"
+title: "coins"
+version: 0.2
+date-released: 2022
+abstract: ""
+keywords:
+  - "Roman coinage"
+  - "Roman imperial ideology"
+  - "Roman religion"
+  - "cultural evolution"
+  - "affluence hypothesis

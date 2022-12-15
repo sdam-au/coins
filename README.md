@@ -1,5 +1,4 @@
 # Coins
-*pick type of repository (TOOL, ETL, ANALYSIS, ADMIN)*
 
 ---
 

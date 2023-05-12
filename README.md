@@ -15,7 +15,7 @@ Supplementary materials (code, data, & figures) to the article "Iconographic tre
 CC-BY-SA 4.0, see attached License.md
 
 ## DOI
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7440143.svg)](https://doi.org/10.5281/zenodo.7440143)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7440143.svg)](https://doi.org/10.5281/zenodo.7930169)
 
 
 ### References
